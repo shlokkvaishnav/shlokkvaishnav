@@ -1,95 +1,142 @@
-<div align="center">
+# 👋 Hi, I’m **Shlok Vaishnav**
 
-# Hi there, I'm Shlok Vaishnav 👋
+> **Computer Science Undergraduate | Neuro-Symbolic AI | Cognitive & Systems Engineer**
 
-### 🧬 Engineering Intelligence | ⚡ Optimizing Systems
-*Building AI that reasons like a scientist and runs like a high-frequency trading engine.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Resume](https://img.shields.io/badge/Resume-View_PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](LINK_TO_YOUR_RESUME)
-
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=shlokkvaishnav\&style=flat-square\&color=blue)](https://github.com/shlokkvaishnav)
+[![GitHub Followers](https://img.shields.io/github/followers/shlokkvaishnav?style=flat-square)](https://github.com/shlokkvaishnav?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/shlokkvaishnav?style=flat-square)](https://github.com/shlokkvaishnav)
 
 ---
 
-## 🚀 The Elevator Pitch
-I am a **Computer Science Undergraduate at Nirma University** focusing on the "Hard Problems" in AI. 
+## 🧠 Research & Engineering Focus
 
-While many build models, I engineer **architectures**. My work bridges the gap between **High-Performance Computing (HPC)** and **Cognitive AI**. I build systems that are:
-1.  **Interpretable:** Using Neuro-Symbolic methods to extract physical laws from data.
-2.  **Performant:** Writing custom C++ vector engines with AVX2 optimizations because Python isn't always fast enough.
+I’m a Computer Science undergraduate at **Nirma University** working on **AI systems that reason, explain, and generalize** — not just optimize metrics.
 
----
+My work lies at the intersection of:
 
-## 🧠 My Architecture: The Intersection
-```mermaid
-graph TD
-    subgraph "My Engineering Focus"
-    A[<b>Cognitive AI</b><br/>Neuro-Symbolic Reasoning] <-->|Integration| B(<b>Systems Engineering</b><br/>C++ / AVX2 / Memory Mgmt);
-    end
-    
-    A --> D{Scientific Discovery};
-    B --> E{High-Performance Infrastructure};
-    
-    D --> F[Climate Physics Discovery];
-    E --> G[Nano-DB Vector Engine];
-    
-    style A fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style B fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style F fill:#e8f5e9,stroke:#1b5e20,stroke-width:1px
-    style G fill:#f3e5f5,stroke:#4a148c,stroke-width:1px
+* **Neuro-Symbolic AI** (learning + logic)
+* **Cognitive AI Agents** (reasoning, decision-making, abstraction)
+* **Scientific Machine Learning** (discovering structure & equations)
+* **Systems for AI** (performance, scalability, correctness)
 
-```
+I’m particularly interested in **how intelligence emerges when learning systems are constrained by structure, symbols, and physical laws** — a core theme in modern research at Google, OpenAI, and DeepMind.
 
 ---
 
-## 🛠️ Featured Engineering
+## 🔬 Current Exploration Areas
 
-| **Project** | **The Engineering Challenge** | **Tech Stack** |
-| --- | --- | --- |
-| **🧪 climate-equation-discovery**<br>
-
-<br>*(Autonomous AI Scientist)* | **Challenge:** Black-box models fail to respect physics. <br>
-
-<br> **Solution:** Built a Neuro-Symbolic agent combining **PySR** & **PINNs** with thermodynamic constraints to *discover* governing ocean equations autonomously. | `Python` `JAX` `PySR` `Physics-Informed NN` |
-| **⚡ nano-db**<br>
-
-<br>*(High-Performance Vector Engine)* | **Challenge:** Standard search is slow without hardware optimization. <br>
-
-<br> **Solution:** Engineered a persistent vector search engine from scratch using **Disk-based HNSW indexing** and **AVX2 SIMD instructions** for maximum throughput. | `C++` `SIMD/AVX2` `Python Bindings` `Multi-threading` |
-| **👥 DataScienceClub_ITNU**<br>
-
-<br>*(Community Platform)* | **Challenge:** Fostering a collaborative AI environment.<br>
-
-<br> **Solution:** Developed the official platform for Nirma University's DS community. | `TypeScript` `Web Architecture` |
+* Neuro-symbolic learning & interpretable AI
+* Autonomous scientific discovery systems
+* Vector databases & similarity search at scale
+* Physics-informed and constraint-aware learning
+* High-performance systems for ML workloads
 
 ---
 
-## 💻 The Technical Arsenal
+## 🛠️ Selected Projects
 
-*I don't just use libraries; I understand how they work under the hood.*
+### **nano-db**
 
-| **Domain** | **Technologies** |
-| --- | --- |
-| **🧠 AI Research** | **PINNs** |
-| **⚙️ Systems & Low Level** | **Vector Databases (HNSW)** |
-| **📐 Mathematics** | `Linear Algebra` `Probabilistic Graphical Models` `Differential Equations` |
-| **🔧 Tools** |  |
+**A Persistent, High-Performance Vector Search Engine (Built from Scratch)**
+
+A systems-level project focused on **performance, correctness, and scalability**:
+
+* Disk-backed **HNSW** indexing for large-scale similarity search
+* **AVX2 SIMD optimization** for accelerated distance computation
+* **Multi-threaded ingestion & querying**
+* Clean **Python bindings** for ML workflows
+
+**Tech**: C++, Python
+🔗 [https://github.com/shlokkvaishnav/nano-db](https://github.com/shlokkvaishnav/nano-db)
+
+> *Demonstrates low-level systems knowledge, performance engineering, and ML infrastructure design.*
 
 ---
 
-<div align="center">
+### **climate-equation-discovery**
 
-### 📊 GitHub Activity
+**Autonomous AI Scientist for Ocean Physics**
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D58a6ff%26icon_color%3Df0f6fc%26text_color%3Dc9d1d9" height="150" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9" height="150" alt="languages graph" />
+A research-oriented system that blends **learning, physics, and symbolic reasoning**:
 
-</div>
+* **Symbolic regression (PySR)** for interpretable governing equations
+* **Physics-Informed Neural Networks (PINNs)** with thermodynamic constraints
+* Unsupervised **regime discovery** in spatiotemporal climate data
+* Seasonal dynamics modeled via **Hidden Markov Models**
 
-```
+**Tech**: Python, JAX, PySR, Scientific Computing
+🔗 [https://github.com/shlokkvaishnav/climate-equation-discovery](https://github.com/shlokkvaishnav/climate-equation-discovery)
 
-  * **Action:** Ensure `nano-db` has a section titled **"Performance Benchmarks"** showing how fast your AVX2 implementation is compared to a naive implementation. That is what gets people hired at top companies.
+> *Strong alignment with DeepMind-style scientific discovery and interpretable ML.*
 
-```
+---
+
+### **DataScienceClub_ITNU**
+
+**Official Data Science Club Website – Nirma University**
+
+* Platform for ML/AI community building
+* Educational and outreach-focused engineering
+
+**Tech**: TypeScript, Web
+🔗 [https://github.com/Jyot-Kikani/DataScienceClub_ITNU](https://github.com/Jyot-Kikani/DataScienceClub_ITNU)
+
+---
+
+## 💻 Technical Strengths
+
+### **Languages**
+
+* Python
+* C++
+* TypeScript
+
+### **AI / ML**
+
+* PyTorch, JAX
+* Neuro-Symbolic AI
+* Physics-Informed Neural Networks
+* Symbolic Regression (PySR)
+
+### **Mathematical & Scientific Computing**
+
+* NumPy, Pandas
+* Numerical methods
+* Scientific data pipelines
+
+### **Systems & Infrastructure**
+
+* Vector databases & ANN search (HNSW)
+* Multi-threading & concurrency
+* SIMD / AVX2 optimization
+* Performance-critical C++ systems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shlokkvaishnav&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokkvaishnav&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlokkvaishnav&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contact
+
+* **LinkedIn**: [https://www.linkedin.com/in/shlok-vaishnav-52b859357](https://www.linkedin.com/in/shlok-vaishnav-52b859357)
+* **GitHub**: [https://github.com/shlokkvaishnav](https://github.com/shlokkvaishnav)
+
+📍 **Ahmedabad, Gujarat, India**
+
+---
+
+## ✨ Research Philosophy
+
+> *“True intelligence is not just pattern recognition — it is structure, abstraction, and reasoning under constraints.”*
+
+---
