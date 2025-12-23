@@ -1,59 +1,95 @@
+<div align="center">
+
 # Hi there, I'm Shlok Vaishnav 👋
 
-## 🚀 About Me
+### 🧬 Engineering Intelligence | ⚡ Optimizing Systems
+*Building AI that reasons like a scientist and runs like a high-frequency trading engine.*
 
-I'm a Computer Science undergraduate at Nirma University, passionate about building **Cognitive AI Agents that reason**. My work focuses on the intersection of **Neuro-Symbolic AI**, combining the power of neural networks with symbolic reasoning to create more interpretable and robust AI systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](LINK_TO_YOUR_RESUME)
 
-🔬 Currently exploring: Advanced AI architectures, vector databases, and autonomous scientific discovery systems.
-
-## 🧠 What I'm Working On
-
-- **Neuro-Symbolic AI**: Developing systems that bridge neural learning with symbolic reasoning
-- **Cognitive AI Agents**: Building agents capable of complex reasoning and decision-making
-- **Scientific Machine Learning**: Applying AI to discover governing equations in physical systems
-
-## 🛠️ Featured Projects
-
-### [nano-db](https://github.com/shlokkvaishnav/nano-db)
-A high-performance **Persistent Vector Search Engine** built from scratch featuring:
-- Disk-based HNSW indexing for efficient similarity search
-- AVX2 optimization for accelerated computations
-- Multi-threaded insertion for concurrent operations
-- Python bindings for easy integration
-
-**Tech Stack**: C++, Python
-
-### [climate-equation-discovery](https://github.com/shlokkvaishnav/climate-equation-discovery)
-An **Autonomous AI Scientist** for ocean physics discovery that combines:
-- Neuro-Symbolic regression using PySR
-- Physics-Informed Neural Networks (PINNs) with thermodynamic constraints
-- Unsupervised regime segmentation
-- Seasonal adaptation via Hidden Markov Models
-
-**Tech Stack**: Python, JAX, PySR, Jupyter
-
-### [DataScienceClub_ITNU](https://github.com/Jyot-Kikani/DataScienceClub_ITNU)
-The official website for the Data Science Club at Nirma University, fostering a community of ML/AI enthusiasts.
-
-**Tech Stack**: TypeScript, Web Development
-
-## 💻 Tech Stack
-
-**Languages**: Python, C++, TypeScript
-
-**AI/ML**: PyTorch, JAX, PySR, Physics-Informed Neural Networks
-
-**Data Science**: NumPy, Pandas, Scientific Computing
-
-**Systems**: HNSW, Vector Databases, Multi-threading, AVX2 Optimization
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-vaishnav-52b859357)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shlokkvaishnav)
-
-📍 Based in Ahmedabad, Gujarat, India
+</div>
 
 ---
 
-*"Building AI systems that don't just learn patterns, but understand and reason about the world."*
+## 🚀 The Elevator Pitch
+I am a **Computer Science Undergraduate at Nirma University** focusing on the "Hard Problems" in AI. 
+
+While many build models, I engineer **architectures**. My work bridges the gap between **High-Performance Computing (HPC)** and **Cognitive AI**. I build systems that are:
+1.  **Interpretable:** Using Neuro-Symbolic methods to extract physical laws from data.
+2.  **Performant:** Writing custom C++ vector engines with AVX2 optimizations because Python isn't always fast enough.
+
+---
+
+## 🧠 My Architecture: The Intersection
+```mermaid
+graph TD
+    subgraph "My Engineering Focus"
+    A[<b>Cognitive AI</b><br/>Neuro-Symbolic Reasoning] <-->|Integration| B(<b>Systems Engineering</b><br/>C++ / AVX2 / Memory Mgmt);
+    end
+    
+    A --> D{Scientific Discovery};
+    B --> E{High-Performance Infrastructure};
+    
+    D --> F[Climate Physics Discovery];
+    E --> G[Nano-DB Vector Engine];
+    
+    style A fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style B fill:#fff3e0,stroke:#e65100,stroke-width:2px
+    style F fill:#e8f5e9,stroke:#1b5e20,stroke-width:1px
+    style G fill:#f3e5f5,stroke:#4a148c,stroke-width:1px
+
+```
+
+---
+
+## 🛠️ Featured Engineering
+
+| **Project** | **The Engineering Challenge** | **Tech Stack** |
+| --- | --- | --- |
+| **🧪 climate-equation-discovery**<br>
+
+<br>*(Autonomous AI Scientist)* | **Challenge:** Black-box models fail to respect physics. <br>
+
+<br> **Solution:** Built a Neuro-Symbolic agent combining **PySR** & **PINNs** with thermodynamic constraints to *discover* governing ocean equations autonomously. | `Python` `JAX` `PySR` `Physics-Informed NN` |
+| **⚡ nano-db**<br>
+
+<br>*(High-Performance Vector Engine)* | **Challenge:** Standard search is slow without hardware optimization. <br>
+
+<br> **Solution:** Engineered a persistent vector search engine from scratch using **Disk-based HNSW indexing** and **AVX2 SIMD instructions** for maximum throughput. | `C++` `SIMD/AVX2` `Python Bindings` `Multi-threading` |
+| **👥 DataScienceClub_ITNU**<br>
+
+<br>*(Community Platform)* | **Challenge:** Fostering a collaborative AI environment.<br>
+
+<br> **Solution:** Developed the official platform for Nirma University's DS community. | `TypeScript` `Web Architecture` |
+
+---
+
+## 💻 The Technical Arsenal
+
+*I don't just use libraries; I understand how they work under the hood.*
+
+| **Domain** | **Technologies** |
+| --- | --- |
+| **🧠 AI Research** | **PINNs** |
+| **⚙️ Systems & Low Level** | **Vector Databases (HNSW)** |
+| **📐 Mathematics** | `Linear Algebra` `Probabilistic Graphical Models` `Differential Equations` |
+| **🔧 Tools** |  |
+
+---
+
+<div align="center">
+
+### 📊 GitHub Activity
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D58a6ff%26icon_color%3Df0f6fc%26text_color%3Dc9d1d9" height="150" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9" height="150" alt="languages graph" />
+
+</div>
+
+```
+
+  * **Action:** Ensure `nano-db` has a section titled **"Performance Benchmarks"** showing how fast your AVX2 implementation is compared to a naive implementation. That is what gets people hired at top companies.
+
+```
