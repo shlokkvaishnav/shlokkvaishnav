@@ -1,12 +1,12 @@
 # Hello there 👋
 
-### A Computer Science Researcher by day ☼ and a Systems Engineer by night ☾
+A Computer Science Student by day ☼ and an AI Software Engineer by night ☾
 
-Researcher at **Nirma University**; Tech Team at **Data Science Club**;
-⚙️ **I use daily:** `.cpp`, `.py`, `.ts`, `.h`, `.ipynb`, `PyTorch`, `JAX`
-🧠 **I'm mostly active within:** **Neuro-Symbolic AI** & **Systems Engineering**
-🚀 **Built:** [nano-db](https://github.com/shlokkvaishnav/nano-db), [climate-equation-discovery](https://github.com/shlokkvaishnav/climate-equation-discovery), [DataScienceClub_ITNU](https://github.com/Jyot-Kikani/DataScienceClub_ITNU)
-💬 **Ping me about:** **AI reasoning**, **vector search**, **math**, **C++ optimization**
+Undergraduate at **Nirma University**; Technical Team Member at **Data Science Club**;
+⚙️ **I use daily:** `.cpp`, `.py`, `.ipynb`, `.ts`, `.sql`, `PyTorch`
+🧠 **I'm mostly active within:** **Cognitive AI** & **Software Engineering**
+🚀 **Built:** [nano-db](https://github.com/shlokkvaishnav/nano-db), [climate-equation-discovery](https://github.com/shlokkvaishnav/climate-equation-discovery), [DataScienceClub](https://github.com/Jyot-Kikani/DataScienceClub_ITNU)
+💬 **Ping me about:** **cognitive AI**, **software design**, **math**, **Real Madrid**
 
 ---
 <p align="left">
