@@ -25,11 +25,3 @@ I focus on clean abstractions, reproducible systems, and code that actually runs
 </td>
 </tr>
 </table>
-
----
-
-<p align="center">
-  <a href="https://shlokkvaishnav.github.io">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/shlok-vaishnav">💼 LinkedIn</a> •
-  <a href="mailto:shlok9640@gmail.com">📧 Email</a>
-</p>
