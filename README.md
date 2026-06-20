@@ -4,9 +4,11 @@
 
 # Hey, I'm Shlok Vaishnav
 
-CS undergrad at **Nirma University** building at the intersection of **systems programming** and **machine learning** — from SIMD-optimized vector databases to production ML systems and full-stack applications.
+CS undergrad at **Nirma University** building at the intersection of **software engineering** and **machine learning**.
 
-I focus on clean abstractions, reproducible systems, and code that actually runs. Experience spans low-level C++ optimization, ML pipeline engineering, and modern web development.
+I focus on clean abstractions, reproducible systems, and code that actually runs. Experience spans low-level systems programming, ML engineering, and full-stack development. I work across the stack from performance-critical backend systems to production ML pipelines and modern web applications.
+
+Interested in problems at the boundary of performance and intelligence: agentic AI systems, efficient infrastructure for ML workloads, production-grade systems, and tooling that makes engineering workflows better.
 
 **Connect:**
 <p align="left">
@@ -15,8 +17,6 @@ I focus on clean abstractions, reproducible systems, and code that actually runs
 <a href="https://github.com/shlokkvaishnav"><img src="https://skillicons.dev/icons?i=github" width="32"></a>
 <a href="https://twitter.com/shlokkvaishnav"><img src="https://skillicons.dev/icons?i=twitter" width="32"></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=shlokkvaishnav&label=Profile%20views&color=8f6f33&style=flat" align="right"/>
 
 </td>
 
