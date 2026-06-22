@@ -4,11 +4,11 @@
 
 # Hey, I'm Shlok Vaishnav
 
-CS undergrad at **Nirma University** building at the intersection of **software engineering** and **machine learning**.
+CS undergrad at **Nirma University** building at the intersection of **Software Engineering** and **Artificial Intelligence**.
+  
+I focus on building scalable systems, intelligent applications, and infrastructure that bridges modern AI with production software. My experience spans backend engineering, AI/ML systems, developer tooling, and performance-oriented software development. I work across the stack—from low-level systems and optimized data structures to production ML pipelines, agentic workflows, and modern web applications.
 
-I focus on clean abstractions, reproducible systems, and code that actually runs. Experience spans low-level systems programming, ML engineering, and full-stack development. I work across the stack from performance-critical backend systems to production ML pipelines and modern web applications.
-
-Interested in problems at the boundary of performance and intelligence: agentic AI systems, efficient infrastructure for ML workloads, production-grade systems, and tooling that makes engineering workflows better.
+Interested in problems at the boundary of performance and intelligence: AI infrastructure, agentic systems, retrieval and reasoning architectures and distributed systems.
 
 **Connect:**
 <p align="left">
