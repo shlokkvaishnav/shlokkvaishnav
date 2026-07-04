@@ -2,7 +2,7 @@
 <tr>
 <td width="65%" valign="top">
 
-# Hey, I'm Shlok Vaishnav
+# Hey, I'm Shlokk
 
 CS undergrad at **Nirma University** building at the intersection of **Software Engineering** and **Artificial Intelligence**.
   
