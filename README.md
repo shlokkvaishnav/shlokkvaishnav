@@ -6,7 +6,7 @@
 
 CS undergrad at **Nirma University** building at the intersection of **Software Engineering** and **Artificial Intelligence**.
   
-My projects cover LLM inference serving, how replicated vector databases fail, and how to test whether the wrapper around a search pipeline adds anything. I build them with AI coding agents.
+I focus on building scalable systems, intelligent applications, and infrastructure that bridges modern AI with production software. My experience spans backend engineering, AI/ML systems, developer tooling, and performance-oriented software development. I work across the stack—from low-level systems and optimized data structures to production ML pipelines, agentic workflows, and modern web applications.
 
 Interested in problems at the boundary of performance and intelligence: AI infrastructure, agentic systems, retrieval and reasoning architectures and distributed systems.
 
